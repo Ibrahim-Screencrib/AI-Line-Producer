@@ -13,3 +13,9 @@
 * words that are used in similar ways to result in having similar representations - https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520
 
 * Word embedding methods learn a real-valued vector representation for a predefined fixed sized vocabulary from a corpus of text. The learning process is either joint with the neural network model on some task, such as document classification, or is an unsupervised process, using document statistics.
+---
+### Questions
+
+* ran into some trouble with Azure OpenAI looks like you need an account and to sign up for the service to use this feature
+
+* need to look for an alternative way to use chatGPT to analyze our data
