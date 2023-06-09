@@ -19,3 +19,10 @@
 * ran into some trouble with Azure OpenAI looks like you need an account and to sign up for the service to use this feature
 
 * need to look for an alternative way to use chatGPT to analyze our data
+
+---
+# Alternative Solutions
+### The path from PDF to ChatGPT is challenging but worth the effort
+https://dataconomy.com/2023/04/17/how-to-upload-pdf-to-chatgpt-how-to-let-chatgpt-read-pdfs/
+
+* This article tells you how to use BookGPT which is a 3rd party application, so you can submit your pdf to chatGPT so it can answer questions about it
