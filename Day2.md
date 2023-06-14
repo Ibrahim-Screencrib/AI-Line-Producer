@@ -26,3 +26,9 @@
 https://dataconomy.com/2023/04/17/how-to-upload-pdf-to-chatgpt-how-to-let-chatgpt-read-pdfs/
 
 * This article tells you how to use BookGPT which is a 3rd party application, so you can submit your pdf to chatGPT so it can answer questions about it
+
+---
+## ChatPDF
+https://www.chatpdf.com/c/co8BxuCAnQyrXzYcgLmE6
+
+* this site lets you upload a pdf and lets the chatbot read to it and answer questions from it.
