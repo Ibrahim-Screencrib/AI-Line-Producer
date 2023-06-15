@@ -1,7 +1,7 @@
 import openai
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'your API key'
 
 # Define your chat conversation
 conversation = [
