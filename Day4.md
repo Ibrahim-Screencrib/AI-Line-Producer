@@ -38,3 +38,12 @@ New method:
 Now for the rest of the budget thinks that can be added seperately. 
 * Maybe lets have a form, once its filled in with information like for example, hourly rates for security, and more like salary info for people that would make this part be able to prompt chatGPT for calculations based on the given info.
 
+---
+### Adrien-Luxey/Da-Fonky-Movie-Script-Parser
+https://github.com/Adrien-Luxey/Da-Fonky-Movie-Script-Parser/tree/master
+
+* this repo parses movie scripts into scenes. It gets the movie from IDMB though
+
+
+
+
