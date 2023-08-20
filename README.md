@@ -2,7 +2,7 @@
 
 This project is an experimental idea on building an AI that can act as a line producer for independent movie budgets.
 ### Goal:
- * Break down a script scene by scene 
+* Break down a script scene by scene 
 * estimate the cost of each scene
 * format the budget similar to the movie budget document created by a line producer
 
